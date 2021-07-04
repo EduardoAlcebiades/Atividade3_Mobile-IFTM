@@ -55,5 +55,5 @@ $ yarn start
 
 # Print do Projeto
 
-<img src="project-image-1.jpeg" alt="Tela de Início" style="height:500px;"/>
-<img src="project-image-2.jpeg" alt="Gráfico" style="height:500px;"/>
+<img src="project-image-1.jpeg" alt="Tela de Início" style="max-width:300px;"/>
+<img src="project-image-2.jpeg" alt="Gráfico" style="max-width:300px;"/>
